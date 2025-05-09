@@ -6,19 +6,19 @@
 - [How to Use This Roadmap](#how-to-use-this-roadmap)
 - [Part 1: Data Science](#part-1-data-science-roadmap-6-months)
 - [Part 2: Data Engineering](#part-2-data-engineering-roadmap-6-months)
-- [Part 3: Food & Nutrition Data Science](#part-3-food--nutrition-data-science-4-months)
+- [Part 3: Computer Vision](#part-3-computer-vision-4-months)
 - [Milestone Projects](#milestone-projects)
 - [Learning Resources](#learning-resources)
 - [Progress Tracking](#progress-tracking)
 - [Contribution Guidelines](#contribution-guidelines)
 
 ## Overview
-This repository contains a learning roadmap for becoming proficient in data science, data engineering, and specialized knowledge in food/nutrition analytics. The roadmap spans approximately 15 months with dedicated study time of 2 hours daily.
+This repository contains a learning roadmap for becoming proficient in data science, data engineering, and computer vision. The roadmap spans approximately 15 months with dedicated study time of 2 hours daily.
 
 The journey is divided into three main parts:
 1. **Data Science Foundations** (6 months)
 2. **Data Engineering Practices** (6 months)
-3. **Food & Nutrition Data Specialization** (4 months)
+3. **Computer Vision Specialization** (4 months)
 
 ## How to Use This Roadmap
 - Each section contains two-week learning periods with specific topics and skills
@@ -32,93 +32,93 @@ The journey is divided into three main parts:
 | Date Range | Focus Area | Topics & Skills | Status |
 |------------|------------|----------------|--------|
 | **May 23 - Jun 5, 2025** | Python & Statistics Essentials | • Python fundamentals and data structures<br>• Statistical concepts and probability<br>• Descriptive statistics implementation<br>• Hypothesis testing frameworks | 🔲 |
-| **Jun 6 - Jun 19, 2025** | Data Manipulation & Visualization | • NumPy and Pandas mastery<br>• Data cleaning and preprocessing<br>• Matplotlib, Seaborn, and Plotly<br>• Exploratory data analysis techniques | 🔲 |
-| **Jun 20 - Jul 3, 2025** | Supervised Learning | • ML workflow and scikit-learn<br>• Linear and logistic regression<br>• Decision trees and random forests<br>• Model evaluation metrics | 🔲 |
-| **Jul 4 - Jul 17, 2025** | Advanced ML Techniques | • Ensemble methods and boosting algorithms<br>• Support vector machines<br>• Clustering techniques<br>• Dimensionality reduction methods | 🔲 |
-| **Jul 18 - Jul 31, 2025** | Time Series Analysis | • Time series components and decomposition<br>• ARIMA modeling and forecasting<br>• Prophet and advanced forecasting<br>• Time series project | 🔲 |
-| **Aug 1 - Aug 14, 2025** | Natural Language Processing | • Text preprocessing pipeline<br>• Feature extraction from text<br>• Sentiment analysis and classification<br>• Topic modeling techniques | 🔲 |
+| **Jun 6 - Jun 19, 2025** | Data Manipulation & Visualization | • NumPy and Pandas mastery<br>• Data cleaning and preprocessing<br>• Matplotlib, Seaborn, and Plotly<br>• Exploratory data analysis for images | 🔲 |
+| **Jun 20 - Jul 3, 2025** | Supervised Learning | • ML workflow and scikit-learn<br>• Linear and logistic regression<br>• Decision trees and random forests<br>• Model evaluation metrics for images | 🔲 |
+| **Jul 4 - Jul 17, 2025** | Advanced ML Techniques | • Ensemble methods and boosting algorithms<br>• Support vector machines<br>• Clustering for image data<br>• Dimensionality reduction for images | 🔲 |
+| **Jul 18 - Jul 31, 2025** | Time Series Analysis | • Time series components and decomposition<br>• ARIMA modeling and forecasting<br>• Prophet and advanced forecasting<br>• Video sequence analysis | 🔲 |
+| **Aug 1 - Aug 14, 2025** | Natural Language Processing | • Text preprocessing pipeline<br>• Feature extraction from text<br>• Sentiment analysis and classification<br>• Image captioning fundamentals | 🔲 |
 | **Aug 15 - Aug 28, 2025** | Neural Network Foundations | • Neural network architecture<br>• TensorFlow/PyTorch fundamentals<br>• Training and optimization techniques<br>• Building basic neural networks | 🔲 |
-| **Aug 29 - Sep 11, 2025** | Advanced Deep Learning | • Convolutional neural networks<br>• Recurrent neural networks<br>• Transfer learning techniques<br>• Computer vision or NLP application | 🔲 |
-| **Sep 12 - Sep 25, 2025** | Model Deployment | • Model serialization<br>• API development with Flask/FastAPI<br>• Containerization basics<br>• Cloud deployment fundamentals | 🔲 |
-| **Sep 26 - Oct 9, 2025** | MLOps Fundamentals | • ML pipeline automation<br>• Model monitoring<br>• A/B testing frameworks<br>• Retraining strategies | 🔲 |
-| **Oct 10 - Oct 23, 2025** | Domain Specialization | • Choose one: Financial, Marketing, Healthcare, or Product analytics<br>• Domain-specific metrics and KPIs<br>• Industry-specific modeling techniques<br>• Case studies and applications | 🔲 |
-| **Oct 24 - Nov 6, 2025** | Data Science Capstone Project | • End-to-end data science project<br>• Problem formulation to deployment<br>• Documentation and presentation<br>• Portfolio development | 🔲 |
+| **Aug 29 - Sep 11, 2025** | Advanced Deep Learning | • Convolutional neural networks<br>• Recurrent neural networks<br>• Transfer learning techniques<br>• Computer vision applications | 🔲 |
+| **Sep 12 - Sep 25, 2025** | Model Deployment | • Model serialization<br>• API development with Flask/FastAPI<br>• Containerization basics<br>• Cloud deployment for CV models | 🔲 |
+| **Sep 26 - Oct 9, 2025** | MLOps Fundamentals | • ML pipeline automation<br>• Model monitoring for image models<br>• A/B testing frameworks<br>• Retraining strategies | 🔲 |
+| **Oct 10 - Oct 23, 2025** | Domain Specialization | • Computer vision foundations<br>• Image processing metrics<br>• Industry-specific CV applications<br>• Case studies in visual AI | 🔲 |
+| **Oct 24 - Nov 6, 2025** | Data Science Capstone Project | • End-to-end image analysis project<br>• Problem formulation to deployment<br>• Documentation and presentation<br>• Portfolio development | 🔲 |
 
 ### Mini-Projects (Data Science)
-- [ ] **Week 2**: Statistical analysis of a public dataset
-- [ ] **Week 4**: Data visualization dashboard
-- [ ] **Week 6**: Classification model for a real-world problem
-- [ ] **Week 8**: Clustering analysis project
-- [ ] **Week 10**: Time series forecasting application
-- [ ] **Week 12**: NLP application (e.g., sentiment analyzer)
-- [ ] **Week 14**: Neural network image classifier
-- [ ] **Week 16**: Transfer learning application
-- [ ] **Week 18**: Deployed ML model with API
-- [ ] **Week 20**: A/B testing framework
-- [ ] **Week 22**: Domain-specific analysis project
-- [ ] **Week 24**: Complete data science portfolio project
+- [ ] **Week 2**: Statistical analysis of image datasets
+- [ ] **Week 4**: Image data visualization dashboard
+- [ ] **Week 6**: Classification model for image problems
+- [ ] **Week 8**: Image clustering analysis project
+- [ ] **Week 10**: Video sequence analysis application
+- [ ] **Week 12**: Image captioning prototype
+- [ ] **Week 14**: Neural network for digit recognition
+- [ ] **Week 16**: Transfer learning for image classification
+- [ ] **Week 18**: Deployed image classification API
+- [ ] **Week 20**: A/B testing framework for CV models
+- [ ] **Week 22**: Domain-specific image analysis project
+- [ ] **Week 24**: Complete computer vision portfolio project
 
 ## Part 2: Data Engineering Roadmap (6 months)
 
 | Date Range | Focus Area | Topics & Skills | Status |
 |------------|------------|----------------|--------|
-| **Nov 7 - Nov 20, 2025** | SQL Mastery | • Advanced SQL operations<br>• Query optimization techniques<br>• Database design principles<br>• Stored procedures and functions | 🔲 |
-| **Nov 21 - Dec 4, 2025** | Python for Data Engineering | • ETL scripts with Python<br>• Data validation frameworks<br>• Logging and monitoring<br>• Error handling best practices | 🔲 |
-| **Dec 5 - Dec 18, 2025** | Database Systems | • Relational databases (PostgreSQL)<br>• NoSQL databases (MongoDB)<br>• In-memory databases (Redis)<br>• Database administration basics | 🔲 |
-| **Dec 19, 2025 - Jan 1, 2026** | Data Warehouse Concepts | • Dimensional modeling<br>• Star and snowflake schemas<br>• OLAP vs OLTP<br>• Data mart implementation | 🔲 |
-| **Jan 2 - Jan 15, 2026** | ETL/ELT Design | • ETL vs ELT architecture<br>• Data integration patterns<br>• Incremental loading strategies<br>• Change data capture techniques | 🔲 |
-| **Jan 16 - Jan 29, 2026** | Workflow Orchestration | • Apache Airflow fundamentals<br>• DAG design patterns<br>• Scheduling and dependencies<br>• Error handling and retry mechanisms | 🔲 |
-| **Jan 30 - Feb 12, 2026** | Distributed Processing | • Apache Spark fundamentals<br>• PySpark programming<br>• RDD and DataFrame operations<br>• Spark SQL and optimization | 🔲 |
-| **Feb 13 - Feb 26, 2026** | Stream Processing | • Streaming concepts and architecture<br>• Apache Kafka fundamentals<br>• Producer/consumer patterns<br>• Real-time analytics implementation | 🔲 |
-| **Feb 27 - Mar 12, 2026** | Cloud Data Services | • Storage solutions (S3/GCS/Blob)<br>• Compute services (EC2/GCE/VM)<br>• Managed data services (RDS/CloudSQL)<br>• Serverless options (Lambda/Functions) | 🔲 |
-| **Mar 13 - Mar 26, 2026** | Cloud-Native Data Engineering | • Infrastructure as code (Terraform)<br>• Container orchestration (Kubernetes)<br>• Managed data pipelines (Glue/Dataflow)<br>• Data lakes architecture | 🔲 |
-| **Mar 27 - Apr 9, 2026** | Data Engineering Best Practices | • Performance optimization<br>• Security and compliance<br>• Cost management<br>• Disaster recovery | 🔲 |
-| **Apr 10 - Apr 23, 2026** | Data Engineering Capstone | • End-to-end data platform design<br>• Batch and streaming integration<br>• Monitoring and alerting<br>• Documentation and presentation | 🔲 |
+| **Nov 7 - Nov 20, 2025** | SQL Mastery | • Advanced SQL operations<br>• Query optimization techniques<br>• Database design for image metadata<br>• Stored procedures and functions | 🔲 |
+| **Nov 21 - Dec 4, 2025** | Python for Data Engineering | • ETL scripts for image processing<br>• Data validation for visual datasets<br>• Logging and monitoring<br>• Error handling best practices | 🔲 |
+| **Dec 5 - Dec 18, 2025** | Database Systems | • Relational databases for metadata<br>• NoSQL databases for image storage<br>• Vector databases for embeddings<br>• Database administration basics | 🔲 |
+| **Dec 19, 2025 - Jan 1, 2026** | Data Warehouse Concepts | • Dimensional modeling for visual analytics<br>• Star and snowflake schemas<br>• OLAP vs OLTP<br>• Data mart implementation | 🔲 |
+| **Jan 2 - Jan 15, 2026** | ETL/ELT Design | • ETL for image processing pipelines<br>• Data integration patterns<br>• Incremental loading for video data<br>• Change data capture techniques | 🔲 |
+| **Jan 16 - Jan 29, 2026** | Workflow Orchestration | • Apache Airflow for CV pipelines<br>• DAG design patterns<br>• Scheduling and dependencies<br>• Error handling for image processing | 🔲 |
+| **Jan 30 - Feb 12, 2026** | Distributed Processing | • Apache Spark for image processing<br>• PySpark programming<br>• Distributed image processing<br>• Spark optimization for large datasets | 🔲 |
+| **Feb 13 - Feb 26, 2026** | Stream Processing | • Video streaming architectures<br>• Apache Kafka for frame processing<br>• Producer/consumer patterns<br>• Real-time video analytics | 🔲 |
+| **Feb 27 - Mar 12, 2026** | Cloud Data Services | • Storage solutions for visual data<br>• GPU/TPU compute services<br>• Managed ML services for CV<br>• Serverless options for inference | 🔲 |
+| **Mar 13 - Mar 26, 2026** | Cloud-Native Data Engineering | • Infrastructure as code for CV systems<br>• Container orchestration for ML models<br>• Managed data pipelines<br>• Data lakes for image/video data | 🔲 |
+| **Mar 27 - Apr 9, 2026** | Data Engineering Best Practices | • Performance optimization for GPU workloads<br>• Security for visual data<br>• Cost management<br>• Disaster recovery | 🔲 |
+| **Apr 10 - Apr 23, 2026** | Data Engineering Capstone | • End-to-end CV data platform<br>• Batch and streaming integration<br>• Monitoring and alerting<br>• Documentation and presentation | 🔲 |
 
 ### Mini-Projects (Data Engineering)
-- [ ] **Week 26**: Advanced SQL query optimization
-- [ ] **Week 28**: Python ETL pipeline
-- [ ] **Week 30**: Multi-database integration project
-- [ ] **Week 32**: Data warehouse design implementation
-- [ ] **Week 34**: ELT pipeline for analytics
-- [ ] **Week 36**: Airflow DAG orchestration project
-- [ ] **Week 38**: Spark data processing application
-- [ ] **Week 40**: Real-time data processing with Kafka
-- [ ] **Week 42**: Cloud-based data pipeline
-- [ ] **Week 44**: Infrastructure as code for data services
-- [ ] **Week 46**: Performance optimization case study
-- [ ] **Week 48**: Complete data platform project
+- [ ] **Week 26**: Advanced SQL for image metadata
+- [ ] **Week 28**: Python ETL pipeline for images
+- [ ] **Week 30**: Multi-database integration for CV data
+- [ ] **Week 32**: Data warehouse for visual analytics
+- [ ] **Week 34**: ELT pipeline for image processing
+- [ ] **Week 36**: Airflow DAG for CV model training
+- [ ] **Week 38**: Spark image processing application
+- [ ] **Week 40**: Real-time video processing with Kafka
+- [ ] **Week 42**: Cloud-based CV inference pipeline
+- [ ] **Week 44**: Kubernetes deployment for CV models
+- [ ] **Week 46**: Performance optimization for GPU workloads
+- [ ] **Week 48**: Complete visual data platform
 
-## Part 3: Food & Nutrition Data Science (4 months)
+## Part 3: Computer Vision (4 months)
 
 | Date Range | Focus Area | Topics & Skills | Status |
 |------------|------------|----------------|--------|
-| **Apr 24 - May 7, 2026** | Food & Nutrition Data Sources | • USDA food composition databases<br>• Restaurant menu APIs (Yelp, OpenMenu)<br>• Nutritional databases (Nutritionix, FoodData Central)<br>• Food review datasets (Amazon, Yelp) | 🔲 |
-| **May 8 - May 21, 2026** | Food Data Processing | • Nutritional data cleaning techniques<br>• Menu text parsing and normalization<br>• Ingredient extraction and categorization<br>• Recipe structure standardization | 🔲 |
-| **May 22 - Jun 4, 2026** | Restaurant Analytics | • Location analytics for restaurants<br>• Menu pricing optimization models<br>• Customer segmentation for restaurants<br>• Operational efficiency analysis | 🔲 |
-| **Jun 5 - Jun 18, 2026** | Restaurant Review Analysis | • Sentiment analysis for food reviews<br>• Topic modeling for restaurant feedback<br>• Review authenticity detection<br>• Trend identification in food preferences | 🔲 |
-| **Jun 19 - Jul 2, 2026** | Nutritional Modeling | • Nutrient profile analysis techniques<br>• Diet recommendation systems<br>• Nutritional scoring algorithms<br>• Allergy and dietary restriction modeling | 🔲 |
-| **Jul 3 - Jul 16, 2026** | Food Image Analysis | • Food image recognition models<br>• Portion size estimation from images<br>• Nutritional content estimation<br>• Multi-ingredient classification | 🔲 |
-| **Jul 17 - Jul 30, 2026** | Food Supply Chain Analytics | • Inventory optimization for restaurants<br>• Demand forecasting for ingredients<br>• Freshness prediction models<br>• Sustainability metrics calculation | 🔲 |
-| **Jul 31 - Aug 13, 2026** | Personalized Nutrition Systems | • User preference modeling<br>• Health-optimized recommendation algorithms<br>• Meal planning optimization<br>• Dietary intervention effectiveness analysis | 🔲 |
+| **Apr 24 - May 7, 2026** | Computer Vision Fundamentals | • Image representation and processing<br>• OpenCV fundamentals<br>• Image filtering and enhancement<br>• Feature detection and extraction | 🔲 |
+| **May 8 - May 21, 2026** | Object Detection | • Region-based detectors (RCNN, Fast RCNN)<br>• Single-shot detectors (YOLO, SSD)<br>• Transfer learning for detection<br>• Model evaluation and optimization | 🔲 |
+| **May 22 - Jun 4, 2026** | Semantic Segmentation | • Pixel-level classification techniques<br>• U-Net and FCN architectures<br>• Instance vs. semantic segmentation<br>• Medical and satellite image analysis | 🔲 |
+| **Jun 5 - Jun 18, 2026** | Video Analysis | • Object tracking algorithms<br>• Action recognition<br>• Video segmentation<br>• Temporal models and architectures | 🔲 |
+| **Jun 19 - Jul 2, 2026** | Advanced Deep Learning for CV | • Vision Transformers<br>• Self-supervised learning<br>• Few-shot and zero-shot learning<br>• Generative models for images | 🔲 |
+| **Jul 3 - Jul 16, 2026** | 3D Computer Vision | • Depth estimation<br>• Structure from motion<br>• 3D reconstruction<br>• Point cloud processing | 🔲 |
+| **Jul 17 - Jul 30, 2026** | Multimodal Learning | • Vision-language models<br>• Image captioning<br>• Visual question answering<br>• Cross-modal retrieval | 🔲 |
+| **Jul 31 - Aug 13, 2026** | Edge Deployment | • Model optimization for edge devices<br>• Quantization and pruning<br>• TensorRT, TFLite, ONNX<br>• Real-time inference on mobile/IoT | 🔲 |
 
-### Mini-Projects (Food & Nutrition Data)
-- [ ] **Week 50**: Food database integration project
-- [ ] **Week 52**: Recipe parser and nutrition calculator
-- [ ] **Week 54**: Restaurant location analysis tool
-- [ ] **Week 56**: Restaurant review analyzer
-- [ ] **Week 58**: Nutrition recommendation engine
-- [ ] **Week 60**: Food image recognition application
-- [ ] **Week 62**: Restaurant inventory optimization system
-- [ ] **Week 64**: Personalized meal planning application
+### Mini-Projects (Computer Vision)
+- [ ] **Week 50**: Image processing and enhancement tool
+- [ ] **Week 52**: Object detection application
+- [ ] **Week 54**: Semantic segmentation system
+- [ ] **Week 56**: Video analysis application
+- [ ] **Week 58**: Vision Transformer implementation
+- [ ] **Week 60**: 3D reconstruction from images
+- [ ] **Week 62**: Image captioning system
+- [ ] **Week 64**: Edge-optimized CV application
 
 ## Milestone Projects
 
 | Completion Date | Project | Description | Status |
 |-----------------|---------|-------------|--------|
-| **Nov 6, 2025** | Data Science Portfolio | Complete data science project demonstrating ML modeling, evaluation, and deployment | 🔲 |
-| **Apr 23, 2026** | Data Engineering Platform | End-to-end data platform with batch processing, streaming, and analytics capabilities | 🔲 |
-| **Aug 13, 2026** | Food Analytics Application | Specialized application combining data science, engineering, and domain expertise in food/nutrition | 🔲 |
+| **Nov 6, 2025** | Data Science Portfolio | Complete image analysis project demonstrating ML modeling, evaluation, and deployment | 🔲 |
+| **Apr 23, 2026** | Data Engineering Platform | End-to-end data platform for visual data with batch processing, streaming, and analytics capabilities | 🔲 |
+| **Aug 13, 2026** | Computer Vision Application | Specialized application combining data science, engineering, and computer vision expertise | 🔲 |
 
 ## Learning Resources
 
@@ -149,18 +149,20 @@ The journey is divided into three main parts:
   - [DataEngineering.wiki](https://dataengineering.wiki/Index)
   - [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
 
-### Food & Nutrition Data Resources
-- **APIs & Datasets**:
-  - [USDA FoodData Central](https://fdc.nal.usda.gov/api-guide.html)
-  - [Spoonacular API](https://spoonacular.com/food-api)
-  - [Open Food Facts](https://world.openfoodfacts.org/data)
-  - [Yelp Open Dataset](https://www.yelp.com/dataset)
+### Computer Vision Resources
 - **Books**:
-  - "Nutrition Data Analysis" by R. Pecina & G. Bonn
-  - "Food Science and Technology" by Geoffrey Campbell-Platt
-- **Communities**:
-  - [Food Science & Technology on Stack Exchange](https://cooking.stackexchange.com/)
-  - [r/FoodScience](https://www.reddit.com/r/foodscience/)
+  - "Computer Vision: Algorithms and Applications" by Richard Szeliski
+  - "Deep Learning for Computer Vision" by Adrian Rosebrock
+  - "Pattern Recognition and Machine Learning" by Christopher Bishop
+- **Online Courses**:
+  - [PyImageSearch University](https://www.pyimagesearch.com/pyimagesearch-university/)
+  - [Coursera - Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+  - [Stanford CS231n](https://cs231n.github.io/) - Convolutional Neural Networks for Visual Recognition
+- **Tools & Libraries**:
+  - [OpenCV](https://opencv.org/) - Open source computer vision library
+  - [TensorFlow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/) - Deep learning frameworks
+  - [Roboflow](https://roboflow.com/) - Computer vision dataset management
+  - [Weights & Biases](https://wandb.ai/) - ML experiment tracking
 
 ## Progress Tracking
 
